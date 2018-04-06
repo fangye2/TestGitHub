@@ -1,0 +1,13 @@
+1，clone 代码后，是否只有一个分支master
+1，本地新建dev分支后github 是否有新的分支
+1，在dev分支push后，gitbub是否有新的分支
+1，在master，dev分别修改不同的代码后，checkout分支后，本地代码是否会改变
+1，在本地merge dev的代码后，dev的代码会变成什么样的，push 后提交日志图是什么样的？
+1，在本地merge master的代码后，dev的代码会变成什么样的 push 后，提交日志图是什么样的？
+1，checkout分支后，本地代码是否会改变
+1，在本地在创建 feature1 ，push，看看gitbub有没有新的分支
+1，在github的dev创建新的分支 feature2 看看本地有什么分支，fatch/clone 下来，在看看本地有什么分支
+1，修改feature1 的代码，push 看看master，dev,feature1 的代码分别是什么
+1，修改feature1 的代码，push dev 看看master，dev,feature1 的代码分别是什么
+1，修改feature2 的代码，push 看看master，dev,feature2 的代码分别是什么
+1，修改feature2 的代码，push dev 看看master，dev,feature2 的代码分别是什么
