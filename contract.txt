@@ -11,3 +11,7 @@
 1，修改feature1 的代码，push dev 看看master，dev,feature1 的代码分别是什么
 1，修改feature2 的代码，push 看看master，dev,feature2 的代码分别是什么
 1，修改feature2 的代码，push dev 看看master，dev,feature2 的代码分别是什么
+
+1，修改feature2 的代码，push dev 看看master，dev,feature2 的代码分别是什么
+
+1，修改feature2 的代码，push dev 看看master，dev,feature2 的代码分别是什么
