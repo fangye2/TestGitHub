@@ -21,3 +21,5 @@ add resource 1
 修复bug1
 
 修复bug2
+
+修复bug3
